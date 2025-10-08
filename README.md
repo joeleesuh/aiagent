@@ -1,4 +1,4 @@
-# Joe Suh's MIT AI Studio Crew AI Agent – Public Interest Technologist Edition - Tech Track
+# AI Agent – Public Interest Technologist Edition 
 
 ## Overview
 
