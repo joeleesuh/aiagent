@@ -133,4 +133,4 @@ ground every insight in multi-sector public service experience.
   the runtime environment permits API requests.
 - **What I learned**: Configuring tools conditionally avoids runtime errors in
   restricted environments, and aligning agent personas with lived experience
-  clarifies expectations for output quality and collaboration.
+  clarifies expectations for output quality and collaboration
